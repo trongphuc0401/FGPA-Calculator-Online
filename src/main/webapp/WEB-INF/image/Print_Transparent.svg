@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="1024" viewBox="0 0 1280 1024" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 640 512)" id="background-logo"  >
+<rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  x="-640" y="-512" rx="0" ry="0" width="1280" height="1024" />
+</g>
+<g transform="matrix(1.9211538461538462 0 0 1.9211538461538462 641.0547134615385 669.4420500402335)" id="text-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)" id="text-logo-path-0"  >
+<linearGradient id="SVGID_262916" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 2.75 -43.31)"  x1="-2.8365020942688375" y1="-10.317540000000008" x2="-2.8365020942688375" y2="58.68245999999999">
+<stop offset="0%" style="stop-color:rgb(23,234,217);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(96,120,234);stop-opacity: 1"/>
+</linearGradient>
+<filter id="SVGID_262911" y="-32.437810945273625%" height="164.87562189054725%" x="-22.79592924923952%" width="145.59185849847904%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="5.462686567164178" dy="5.462686567164178" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(200,221,228)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: rgb(255,255,255); stroke-width: 12.67532467532467; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_262916); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_262911);"  paint-order="stroke"  transform=" translate(-100.44, 21.35)" d="M 8.72 -1.52 L 11.1 -9.15 L 24.28 -9.15 L 26.66 -1.52 C 27.08 -0.3 28.24 0.61 29.59 0.61 C 31.29 0.61 32.63 -0.73 32.63 -2.44 C 32.63 -2.75 32.57 -3.05 32.51 -3.35 L 20.68 -41.17 C 20.25 -42.39 19.09 -43.31 17.75 -43.31 C 17.75 -43.31 17.69 -43.31 17.69 -43.31 L 17.63 -43.31 C 16.29 -43.31 15.13 -42.39 14.7 -41.17 L 2.87 -3.35 C 2.81 -3.05 2.75 -2.75 2.75 -2.44 C 2.75 -0.73 4.09 0.61 5.79 0.61 C 7.14 0.61 8.3 -0.3 8.72 -1.52 Z M 12.99 -15.25 L 17.69 -30.2 L 22.39 -15.25 Z M 69.78 -24.16 L 62.46 -24.16 L 62.46 -31.54 C 62.46 -33.24 61.12 -34.59 59.41 -34.59 C 57.71 -34.59 56.36 -33.24 56.36 -31.54 L 56.36 -24.16 L 48.98 -24.16 C 47.27 -24.16 45.93 -22.81 45.93 -21.11 C 45.93 -19.4 47.27 -18.06 48.98 -18.06 L 56.36 -18.06 L 56.36 -10.74 C 56.36 -9.03 57.71 -7.69 59.41 -7.69 C 61.12 -7.69 62.46 -9.03 62.46 -10.74 L 62.46 -18.06 L 69.78 -18.06 C 71.49 -18.06 72.83 -19.4 72.83 -21.11 C 72.83 -22.81 71.49 -24.16 69.78 -24.16 Z M 137.31 -15.86 L 134.75 -15.86 L 134.75 -24.22 C 134.75 -25.93 133.41 -27.27 131.7 -27.27 C 129.99 -27.27 128.65 -25.93 128.65 -24.22 L 128.65 -15.86 L 120.11 -15.86 L 130.97 -38.31 C 131.15 -38.73 131.27 -39.16 131.27 -39.65 C 131.27 -41.36 129.93 -42.7 128.22 -42.7 C 127 -42.7 125.97 -41.97 125.48 -40.99 L 112.55 -14.21 C 112.36 -13.79 112.24 -13.36 112.24 -12.87 C 112.24 -11.16 113.58 -9.82 115.29 -9.82 L 115.35 -9.82 C 115.53 -9.76 115.72 -9.76 115.96 -9.76 L 128.65 -9.76 L 128.65 -2.44 C 128.65 -0.73 129.99 0.61 131.7 0.61 C 133.41 0.61 134.75 -0.73 134.75 -2.44 L 134.75 -9.76 L 137.31 -9.76 C 139.02 -9.76 140.36 -11.1 140.36 -12.81 C 140.36 -14.52 139.02 -15.86 137.31 -15.86 Z M 158.84 -2.44 L 158.84 -3.66 C 158.84 -5.37 157.5 -6.71 155.79 -6.71 C 154.09 -6.71 152.74 -5.37 152.74 -3.66 L 152.74 -2.44 C 152.74 -0.73 154.09 0.61 155.79 0.61 C 157.5 0.61 158.84 -0.73 158.84 -2.44 Z M 198.13 -11.96 L 198.13 -30.74 C 198.13 -37.7 192.52 -43.31 185.5 -43.31 L 183.85 -43.31 C 176.6 -43.31 171.23 -37.94 171.23 -30.68 L 171.23 -12.02 C 171.23 -4.76 176.6 0.61 183.85 0.61 L 185.5 0.61 C 192.52 0.61 198.13 -5 198.13 -11.96 Z M 177.33 -12.02 L 177.33 -30.68 C 177.33 -34.95 179.58 -37.21 183.85 -37.21 L 185.5 -37.21 C 189.53 -37.21 192.03 -34.71 192.03 -30.74 L 192.03 -11.96 C 192.03 -7.99 189.53 -5.49 185.5 -5.49 L 183.85 -5.49 C 179.58 -5.49 177.33 -7.75 177.33 -12.02 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(1.9211538461538462 0 0 1.9211538461538462 639.9999999999999 446.85620866106495)" id="tagline-0749a706-f639-4113-ba01-9088709a51a3-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)" id="tagline-0749a706-f639-4113-ba01-9088709a51a3-logo-path-0"  >
+<linearGradient id="SVGID_262917" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 7.159999999999997 -112.89)"  x1="-7.154999999999916" y1="-26.89325999999994" x2="-7.154999999999916" y2="153.10674000000006">
+<stop offset="0%" style="stop-color:rgb(23,234,217);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(96,120,234);stop-opacity: 1"/>
+</linearGradient>
+<filter id="SVGID_262914" y="-25.24109014675052%" height="150.48218029350105%" x="-27.702182284980736%" width="155.40436456996147%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="5.999999999999995" dy="5.999999999999995" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(200,221,228)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: rgb(255,255,255); stroke-width: 13.800000000000006; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_262917); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_262914);"  paint-order="stroke"  transform=" translate(-46.11, 55.65)" d="M 22.74 -3.98 L 28.94 -23.85 L 63.28 -23.85 L 69.48 -3.98 C 70.6 -0.8 73.62 1.59 77.11 1.59 C 81.57 1.59 85.06 -1.91 85.06 -6.36 C 85.06 -7.16 84.91 -7.95 84.75 -8.75 L 53.9 -107.33 C 52.79 -110.5 49.77 -112.89 46.27 -112.89 C 46.27 -112.89 46.11 -112.89 46.11 -112.89 L 45.95 -112.89 C 42.45 -112.89 39.43 -110.5 38.32 -107.33 L 7.47 -8.75 C 7.31 -7.95 7.16 -7.16 7.16 -6.36 C 7.16 -1.91 10.65 1.59 15.11 1.59 C 18.6 1.59 21.62 -0.8 22.74 -3.98 Z M 33.87 -39.75 L 46.11 -78.7 L 58.35 -39.75 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
